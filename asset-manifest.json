@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Devanand-Portfolio/static/css/main.3ddc99c2.css",
+    "main.js": "/Devanand-Portfolio/static/js/main.1e63a76c.js",
+    "static/js/453.36128a8e.chunk.js": "/Devanand-Portfolio/static/js/453.36128a8e.chunk.js",
+    "static/media/Devanand_Resume.pdf": "/Devanand-Portfolio/static/media/Devanand_Resume.9f5a38d90055041c79ad.pdf",
+    "static/media/DevImg.jpg": "/Devanand-Portfolio/static/media/DevImg.c7922e493d2b05374ce4.jpg",
+    "static/media/testimonial3.png": "/Devanand-Portfolio/static/media/testimonial3.2e18bfe27c6d2e2e9fdc.png",
+    "static/media/testimonial2.png": "/Devanand-Portfolio/static/media/testimonial2.39a53f7f092f07f5bceb.png",
+    "static/media/testimonial1.png": "/Devanand-Portfolio/static/media/testimonial1.89079c1d25f2c94ceb89.png",
+    "index.html": "/Devanand-Portfolio/index.html",
+    "main.3ddc99c2.css.map": "/Devanand-Portfolio/static/css/main.3ddc99c2.css.map",
+    "main.1e63a76c.js.map": "/Devanand-Portfolio/static/js/main.1e63a76c.js.map",
+    "453.36128a8e.chunk.js.map": "/Devanand-Portfolio/static/js/453.36128a8e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ddc99c2.css",
+    "static/js/main.1e63a76c.js"
+  ]
+}
